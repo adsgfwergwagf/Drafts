@@ -2,7 +2,7 @@
 
 **Last Updated:** August 6, 2025  
 **Bot Name:** Drafts
-**Platform:** Discord  
+**Platform:** Discord
 **Contact:** @crating on Discord
 
 ---
