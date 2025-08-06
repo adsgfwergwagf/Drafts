@@ -23,7 +23,7 @@ By using Drafts ("the Bot"), you agree to comply with and be bound by these Term
 
 ## 3. Privacy
 
-Please review our [Privacy Policy(https://adsgfwergwagf.github.io/Drafts) to understand how we collect and use your information.
+Please review our [Privacy Policy(https://adsgfwergwagf.github.io/Privacy-Policy) to understand how we collect and use your information.
 
 ---
 
