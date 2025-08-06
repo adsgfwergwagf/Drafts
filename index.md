@@ -1,8 +1,8 @@
 # Privacy Policy for Drafts
 
 **Last Updated:** August 6, 2025  
-**Bot Name:** Drafts
-**Platform:** Discord
+**Bot Name:** Drafts  
+**Platform:** Discord  
 **Contact:** @crating on Discord
 
 ---
